@@ -4,7 +4,7 @@ Last updated January 24, 2020
 
 
 
-Thank you for choosing to be part of our community at __________ ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at ayu7chauhan@gmail.com.
+Thank you for choosing to be part of our community at BlackHole("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at ayu7chauhan@gmail.com.
 
 When you use our mobile application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
@@ -19,11 +19,10 @@ TABLE OF CONTENTS
 3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 5. HOW LONG DO WE KEEP YOUR INFORMATION?
-6. WHAT ARE YOUR PRIVACY RIGHTS?
-7. CONTROLS FOR DO-NOT-TRACK FEATURES
-8. DO WE MAKE UPDATES TO THIS NOTICE?
-9. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-10. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
+6. CONTROLS FOR DO-NOT-TRACK FEATURES
+7. DO WE MAKE UPDATES TO THIS NOTICE?
+8. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+9. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -62,13 +61,6 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-6. WHAT ARE YOUR PRIVACY RIGHTS?
-
-In Short:  You may review, change, or terminate your account at any time.
- 
-If you are a resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
-
-If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 
 7. CONTROLS FOR DO-NOT-TRACK FEATURES
 
