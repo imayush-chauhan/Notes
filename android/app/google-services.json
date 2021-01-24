@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106503150149",
+    "project_id": "note-3c859",
+    "storage_bucket": "note-3c859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106503150149:android:09587d6b7bac1e3dcc212c",
+        "android_client_info": {
+          "package_name": "com.blackhole.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106503150149-ej7i4p2okgns0ls53msibe3knnpl3nmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMy10wLjWROss4tWUQ4KEi_YB_npXYm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106503150149-ej7i4p2okgns0ls53msibe3knnpl3nmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
